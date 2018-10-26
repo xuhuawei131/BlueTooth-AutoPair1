@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\dfe7f1aaa37a68454eb479ab31117b760f4348cb\output\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="G:\AndroidStudioProjects\BlueTooth-AutoPair1\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_bba89aea6d1d92d735fed2922a034f164ae491c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\dfe7f1aaa37a68454eb479ab31117b760f4348cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="G:\AndroidStudioProjects\BlueTooth-AutoPair1\app\build\intermediates\pre-dexed\debug\classes_9f6c405b9930d56e936b53ee1730d4b6ddf2ac99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\fed1bd1da2f482c4b3424576f79b28fa907c3a74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="G:\AndroidStudioProjects\BlueTooth-AutoPair1\app\build\intermediates\pre-dexed\debug\classes_7186d2799ba0a1af2ff0d008b8ca133385150dc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android_Studio_SDK\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="G:\AndroidStudioProjects\BlueTooth-AutoPair1\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_a3547a4082db5571b37ee9e0c08a416e62ecf3fe.jar" />
+    </item>
+
+</items>
